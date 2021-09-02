@@ -1,3 +1,4 @@
+~*.xsls
 .ipynb_checkpoints
 .DS_Store
 *.gz
