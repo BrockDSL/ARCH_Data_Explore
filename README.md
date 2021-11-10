@@ -13,13 +13,15 @@ More details on project site: [https://brockdsl.github.io/archives_unleashed/](h
 |Hackfest notebook | [Notebook](Hackfest_Kickoff.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/ARCH_Data_Explore/blob/main/Hackfest_Kickoff.ipynb)|
 
 
-
 ## Dataset Derivatives ##
-
-
 |||||
 |---|---|---|---|
 |Extracted Full Text| October 15, 2021 | ~500 MB | [Download Zip](https://webdata.archive-it.org/ait/arch:cohort.ribaric/research_services/download/ARCHIVEIT-13781/WebPagesExtraction/web-pages.csv.gz?access=R3EPFO37WTETU6DWLWRZVYBFTMHYRKZK) |
 
 
+## Additional Repositories ##
+|||
+|---|---|
+| Metadata Sentiments |[Link](https://github.com/vd19qe/metadata_sentiments)|
+| Web Archive Sentiments | [Link](https://github.com/vd19qe/web_archive_sentiments)|
 
