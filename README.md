@@ -13,7 +13,7 @@ More details on project site: [https://brockdsl.github.io/archives_unleashed/](h
 |Hackfest notebook | [Notebook](Hackfest_Kickoff.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/ARCH_Data_Explore/blob/main/Hackfest_Kickoff.ipynb)|
 |Muni Data Export | [Notebook](Muni_Data_Explore_and_Export.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/ARCH_Data_Explore/blob/main/Muni_Data_Explore_and_Export.ipynb)|
 |Prep Domain Data | [Notebook](Prep_Domain_Data.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/ARCH_Data_Explore/blob/main/Prep_Domain_Data.ipynb)|
-
+|Twitter Data Export | [Notebook](Twitter_Data_Explore_and_Export.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/ARCH_Data_Explore/blob/main/Twitter_Data_Explore_and_Export.ipynb)|
 
 ## Dataset Derivatives ##
 |||||
